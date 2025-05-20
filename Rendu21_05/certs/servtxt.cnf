@@ -1,0 +1,7 @@
+basicConstraints = CA:FALSE
+keyUsage = critical, Digital Signature, Key Encipherment
+extendedKeyUsage = serverAuth
+subjectAltName = @alt_names
+
+[alt_names]
+DNS.1 = localhost
