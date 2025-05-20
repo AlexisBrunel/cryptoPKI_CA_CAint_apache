@@ -15,4 +15,4 @@ intermediate.cert.srl#️⃣ Numéro de série du dernier certificat signé	Fich
 Certificat Ca_intermédiaire
 
 
-![image](../img/certint.png]
+![image](../img/certint.png)
