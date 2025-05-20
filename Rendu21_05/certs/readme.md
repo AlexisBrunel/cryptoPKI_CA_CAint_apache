@@ -20,4 +20,5 @@ servtxt.cnf	⚙️ Fichier d’extensions pour certificat serveur	Contient les d
 
 
 Certificat serveur : 
-![image](../img/certsrv.png)
+
+![image](../img/certserv.png)
