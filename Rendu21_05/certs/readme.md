@@ -17,3 +17,7 @@ Il permet au navigateur de valider la chaîne de confiance.
 
 
 servtxt.cnf	⚙️ Fichier d’extensions pour certificat serveur	Contient les directives comme subjectAltName, keyUsage, extendedKeyUsage, etc., utilisées lors de la signature du certificat serveur pour définir ses usages.
+
+
+Certificat serveur : 
+![image](../img/certsrv.png)
