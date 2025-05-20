@@ -8,3 +8,8 @@ ca.cert.srl	#️⃣ Numéro de série du dernier certificat signé	Comme pour l�
 
 
 intext.cnf	⚙️ Fichier de configuration d’extensions X.509	Utilisé lors de la signature du certificat intermédiaire, il contient des directives comme basicConstraints, keyUsage, etc. C’est ce fichier qui permet de définir les capacités du certificat intermédiaire (par exemple : "ce certificat peut signer d'autres certificats").
+
+
+Certificat Ca_Root 
+
+![image](../img/certroot.png)
