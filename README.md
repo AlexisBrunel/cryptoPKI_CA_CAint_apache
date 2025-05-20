@@ -24,7 +24,7 @@ pour un serveur.
 Schéma complet de l'examen : 
 
 
-![image](img/schemacrypto.png)
+![image](Rendu21_05/img/schemacrypto.png)
 
 
 
