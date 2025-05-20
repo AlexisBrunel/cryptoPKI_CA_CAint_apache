@@ -21,7 +21,10 @@ pour un serveur.
 • Montrer son fonctionnement à l'aide d'une connexion avec un navigateur
 
 
+Schéma complet de l'examen : 
 
+
+![image](img/schemacrypto.png)
 
 
 
