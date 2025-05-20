@@ -21,9 +21,6 @@ pour un serveur.
 • Montrer son fonctionnement à l'aide d'une connexion avec un navigateur
 
 
-
-
-Étape	Objectif	Status	Détails
 1️⃣	Créer une paire de clés + certificat autosigné pour la Root CA	✅	
 
 2️⃣	Créer paire de clés + CSR pour l'intermédiaire	✅	
