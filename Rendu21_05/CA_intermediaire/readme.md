@@ -11,3 +11,8 @@ intermediate.cert.srl
 
 
 intermediate.cert.srl#️⃣ Numéro de série du dernier certificat signé	Fichier utilisé automatiquement par OpenSSL pour générer des numéros de série uniques quand l’intermédiaire signe de nouveaux certificats (ex: celui du serveur).
+
+Certificat Ca_intermédiaire
+
+
+![image](../img/certint.png]
