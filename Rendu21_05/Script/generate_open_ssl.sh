@@ -59,13 +59,13 @@ subjectKeyIdentifier = hash
 authorityKeyIdentifier = keyid:always,issuer
 basicConstraints = critical, CA:true
 keyUsage = critical, digitalSignature, cRLSign, keyCertSign
-EOF
+
 [ v3_intermediate_ca ]
 basicConstraints = critical, CA:true, pathlen:0
 keyUsage = critical, digitalSignature, cRLSign, keyCertSign
 subjectKeyIdentifier = hash
 authorityKeyIdentifier = keyid:always,issuer
-
+EOF
 
 
 
@@ -121,7 +121,7 @@ subjectKeyIdentifier = hash
 authorityKeyIdentifier = keyid:always,issuer
 basicConstraints = critical, CA:true, pathlen:0
 keyUsage = critical, digitalSignature, cRLSign, keyCertSign
-EOF
+
 
 [ server_cert ]
 basicConstraints = CA:FALSE
@@ -132,7 +132,7 @@ subjectAltName = @alt_names
 [ alt_names ]
 DNS.1 = localhost
 
-
+EOF
 
 
 ### -------- SERVER CONFIG --------
